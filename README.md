@@ -1,4 +1,4 @@
-#### Note: 
+#### IMP Note: 
 This is a Demo Project for ITSE 476 Open Source Project. The code and everything here is demo as part of the Course to learn about open source projects.  
 
 
@@ -255,7 +255,7 @@ This code of conduct is adapted from the Contributor Covenant, version 2.1, avai
 
 
 ## Announcing
-
+Announcing the project and letting people know about the project is one of the most critical part of the project. So its important to announce publicly in the landing page of project and in open source communities. Since our porject is part of the course and its a demo project we will just soft launch the project and will be making the Repository private after correction.
 
 
 ## FAQ
