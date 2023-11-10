@@ -61,3 +61,98 @@ As a hotel manager, I want to view and manage the availability of rooms in real-
 
 - <b>Performance Analytics:</b>
 As a hotel manager, I want access to performance analytics and reports, such as occupancy rates, revenue generated, and popular room types. This will aid in decision-making, allowing me to optimize pricing strategies and allocate resources effectively.
+
+## Development Status:
+ #### ACTIVE DEVELOPMENT  - middle of development of beta  
+- The system has reached the end of its basic design and initial functionality. 
+- The project is still being put into action, though. However, the entire project will be attempted to be implemented by developers and other contributors who are willing to join us.
+- Up until the completion of the project, each implemented function will be published to the repository
+
+
+## Downloads:
+- <b>Node.js:</b>Its a Javascript runtime environment that is required to run ionic . Link: https://nodejs.org/en/download/
+- <b>Ionic CLI:</b> Ionic projects can be created, built, and executed using the Ionic command-line interface. Using your terminal or command prompt, type the following command to install it: npm install -g ionic
+- <b>Firebase CLI:</b> Using the command line, users can communicate with Firebase services through the Firebase command-line interface. Using your terminal or command prompt, type the following command to install it: npm install -g firebase-tools
+- <b>Git:</b> Git is a version control that we use to track and collaborate project. Link: https://git-scm.com/downloads
+
+
+## Version Control and Bug Tracking
+
+
+
+## Communication Channels:
+As for any project communication is one of the backbones of the project. And we use mainly two platforms **Github issues** and **Discord**.
+-	GitHub Issues: This is a built-in feature of GitHub that allows users to report bugs, request features, ask questions, and provide feedback on a project. GitHub Issues can be organized with labels, milestones, and projects, and can be linked to pull requests and commits. GitHub Issues are suitable for conversations that are related to the code and need to be tracked and resolved.
+
+-	Discord: This is a chat and voice platform that allows users to create and join servers for various topics and communities. Discord can be integrated with GitHub using webhooks, bots, or services like Zapier to send notifications, updates, and commands for a project. We use Discord for every other communication including quick chat, future builds, more detailed interaction etc.
+
+
+## Documentation
+#### Pre-Requisites
+Before you start working on the HMA, you need to have the following tools and accounts:
+-	GitHub Account 
+-	A Code Editor of your choice, such as VSCode
+-	Web Browser
+-	NODE.js and Ionic Framework installed in your PC
+-	Added Plus is Discord (Our Communication Platform)
+-	Account in firebase. As we use Firebase as our Database
+
+#### Set-Up:
+-	Clone or download the open source Ionic app repository from GitHub to your local machine.
+-	Open the app folder in your code editor and run npm install to install the dependencies.
+-	Create a file named firebase.config.ts in the src/environments folder and copy the Firebase configuration object from your Firebase project settings into it
+-	Run ionic serve to launch the app in your browser. You should see the app homepage to login/create account.
+
+#### Tutorial:
+To book a Hotel with the app. follow this steps:
+-	Login into App if not already done
+-	Click Hotels in the Tab Bar (Default View)
+-	Select from the hotel displayed or search with filters
+-	Select Date and How many Guests. It will show the availability and price for the stay.
+-	Click Book and Add Personal information such as Name and Contact Number. And select payment method. Then Click Confirm
+-	You will get a receipt and confirmation mail for the same.
+
+#### Known Issues:
+This document is incomplete and may contain errors or inaccuracies. Some of the known issues are:
+-	The App does not have any security validation
+-	The App have issues with adapting to Tablet Screens
+
+
+
+## Developer Guidelines:
+This document provides best practices for developing, testing, and deploying the Hotel Management Application(HMA) on our GitHub. Whether you are beginner or experienced we got you covered on how to contribute to our Project.
+
+#### Code Style and Formatting:
+The HMA uses following languages:
+-	HTML, CSS and JavaScript
+-	Angular and Ionic Components
+
+#### We use the following coding practice:
+-	Format code with consistent spaces and indents. Use a tool like [Prettier] to do it automatically.
+-	End statements with semicolons and avoid auto-insertion.
+-	Name variables, functions, and classes clearly and descriptively. Use camelCase for variables and functions, and Pascal Case for classes.
+-	Use single quotes for strings, unless you need double quotes for interpolation or escaping.
+-	Use strict equality operators (=== and !==) to compare values, unless you need type coercion.
+-	Enclose code blocks with braces ({}). Put the opening brace on the same line as the statement, and the closing brace on a new line.
+-	Comment your code to explain its logic and purpose, especially if it is complex or not obvious. Use // for single-line comments and /* … */ for multi-line comments.
+-	Use modern JavaScript features, such as let, const, arrow functions, template literals, and destructuring.
+
+#### Branching and Merging:
+The HMA uses ‘GitFlow’ workflow The Main Branches are:
+-	main/master: Stable and production-ready code. Only authorized developers can merge into it.
+-	feature: New features or enhancements. Each feature has its own branch, named as feature/<feature-name>, from develop.
+-	bugfix: Bugs or errors. Each bugfix has its own branch, named as bugfix/<bug-id>, from develop.
+-	hotfix: Critical bugs or issues in master. Each hotfix has its own branch, named as hotfix/<hotfix-id>, from master.
+
+When you finish a feature or a bugfix, create a pull request to merge into develop. The pull request should have a clear title and description, and a reviewer to approve it.
+
+#### Testing and Debugging:
+-	Test your app with unit, end-to-end, and manual tests. Use tools like [Jasmine], [Protractor], or [Cypress] to write and run tests. Follow the [Arrange-Act-Assert] pattern and use code coverage tools.
+-	Debug your app with browser dev tools, such as [Chrome DevTools] or [Safari Web Inspector], or code editors, such as [Visual Studio Code]. Use commands like [ionic serve], [ionic cordova run], [ionic capacitor run], [ionic doctor], and [ionic monitor] to run and debug your app on different platforms and devices.
+
+#### Deployment and Maintenance:
+We use tools and services to build, test, and deploy your app on different platforms and devices, such as:
+-	<b>Appflow:</b> A cloud-based service to generate web and native builds, push live updates, publish to app stores, and automate the process.
+-	<b>Ionic Advisory:</b> A service to get expert help and guidance for your Ionic development. Get tailored recommendations, active maintenance, and access to Ionic experts.
+
+
