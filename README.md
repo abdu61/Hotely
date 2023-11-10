@@ -262,7 +262,7 @@ Announcing the project and letting people know about the project is one of the m
 We will address some common questions and concerns here.
 
 - Q: How can I report a bug or issue?<br>
-A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="#version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
+A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="https://github.com/abdu61/Hotely#version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
 
 - Q: Can I request a new feature or enhancement?<br>
 A: Absolutely! We encourage users to suggest new features or enhancements. You can goto our feature branch. Create a New Issue Request which will be pinged to our discord. In discord all communication take place including wheather to Develop or Discard. When creating a issue Clearly describe the proposed feature and explain how it would benefit the project.
