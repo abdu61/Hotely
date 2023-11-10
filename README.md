@@ -1,11 +1,17 @@
 #### Note: 
 This is a Demo Project for ITSE 476 Open Source Project. The code and everything here is demo as part of the Course to learn about open source projects.  
 
+
+
 # Hotely App
 The Hotely App is open-source project on Github. Its a free software application that allows Customer to Book, Check-in, and Pay for Rooms Hotels While Hotel Staffs can use for Room Availability Management, Perfomance Analytics etc. 
 
+
+
 ## License
 This project is **open source** and licensed under the MIT License. This means that anyone can use, modify, and distribute this project for any purpose, as long as they give credit to the original author and include the license notice. This project is free and open for everyone to contribute and collaborate.
+
+
 
 ## Features and Requirements List:
 #### Functional Requirements:
@@ -62,11 +68,14 @@ As a hotel manager, I want to view and manage the availability of rooms in real-
 - <b>Performance Analytics:</b>
 As a hotel manager, I want access to performance analytics and reports, such as occupancy rates, revenue generated, and popular room types. This will aid in decision-making, allowing me to optimize pricing strategies and allocate resources effectively.
 
+
+
 ## Development Status:
  #### ACTIVE DEVELOPMENT  - middle of development of beta  
 - The system has reached the end of its basic design and initial functionality. 
 - The project is still being put into action, though. However, the entire project will be attempted to be implemented by developers and other contributors who are willing to join us.
 - Up until the completion of the project, each implemented function will be published to the repository
+
 
 
 ## Downloads:
@@ -76,7 +85,9 @@ As a hotel manager, I want access to performance analytics and reports, such as 
 - <b>Git:</b> Git is a version control that we use to track and collaborate project. Link: https://git-scm.com/downloads
 
 
-## Version Control and Bug Tracking
+
+## [Version Control and Bug Tracking](#version)
+For open source projects, GitHub offers free public version control hosting. This involves creating an online, publicly accessible version controlled repository from which anybody may view the project's resources and get updates. For both users and developers, a version control repository indicates that the project is trying to provide resources so that everyone can contribute.GitHub is a reasonable option for the majority of projects, even though it's not the sole or even the best one.The project's bug tracker is in the same boat. A bug tracking system's value extends beyond its regular utility to developers to include the implications it holds for project observers. An accessible bug database is, in the opinion of many, one of the most compelling indicators that a project should be.
 
 
 
@@ -85,6 +96,7 @@ As for any project communication is one of the backbones of the project. And we 
 -	GitHub Issues: This is a built-in feature of GitHub that allows users to report bugs, request features, ask questions, and provide feedback on a project. GitHub Issues can be organized with labels, milestones, and projects, and can be linked to pull requests and commits. GitHub Issues are suitable for conversations that are related to the code and need to be tracked and resolved.
 
 -	Discord: This is a chat and voice platform that allows users to create and join servers for various topics and communities. Discord can be integrated with GitHub using webhooks, bots, or services like Zapier to send notifications, updates, and commands for a project. We use Discord for every other communication including quick chat, future builds, more detailed interaction etc.
+
 
 
 ## Documentation
@@ -137,6 +149,19 @@ The HMA uses following languages:
 -	Comment your code to explain its logic and purpose, especially if it is complex or not obvious. Use // for single-line comments and /* … */ for multi-line comments.
 -	Use modern JavaScript features, such as let, const, arrow functions, template literals, and destructuring.
 
+
+
+## Develper Documentation:
+You can refer to Documentation and Developer guidelines along with this. Here we will deep dive into how our whole process works:
+
+#### Contribution
+To contribute to the app, you can follow these steps:
+-	Fork the open source Ionic app repository on GitHub and clone it to your local machine.
+-	Create a new branch for your feature or bug fix, named as feature/<feature-name> or bugfix/<bug-id>, and branch off from the develop branch.
+-	Write your code and tests, following the coding standards and conventions of the project.
+-	Commit and push your changes to your forked repository, using clear and descriptive messages.
+-	Create a pull request to merge your branch into the develop branch of the original repository. The pull request should have a clear and descriptive title and a detailed description of the changes. You should also assign a reviewer to review your code and approve the merge.
+
 #### Branching and Merging:
 The HMA uses ‘GitFlow’ workflow The Main Branches are:
 -	main/master: Stable and production-ready code. Only authorized developers can merge into it.
@@ -155,14 +180,22 @@ We use tools and services to build, test, and deploy your app on different platf
 -	<b>Appflow:</b> A cloud-based service to generate web and native builds, push live updates, publish to app stores, and automate the process.
 -	<b>Ionic Advisory:</b> A service to get expert help and guidance for your Ionic development. Get tailored recommendations, active maintenance, and access to Ionic experts.
 
+#### Bug Tracking Process:
+If you found a bug. You can quickly create a issue by following
+- Goto "Bug fix" Branch. If it severe/critical Goto "hotfix" branch
+- Raise a issue with all the details. It would be better to give detailed information
+- Additionally you can chat through Discord after raising a issue this way our developers and community will know the bug better and come up with a fix
 
-## Develper Documentation:
+
 
 
 ## User Characterstics and Screenshots:
 
 
+
 ## Hosting:
+Hosting is the location where the project is kept accessible to all. Since GitHub is one of the popular platform to host open source projects, we will host it there so that users and developers may access it and provide us with comments. 
+
 
 
 ## Codes of Conduct:
@@ -203,6 +236,25 @@ Project maintainers who do not follow or enforce the code of conduct in good fai
 This code of conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
 
+
 ## Announcing
+
+
+
+## FAQ
+We will address some common questions and concerns here.
+
+- Q: How can I report a bug or issue?
+A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
+
+- Q: Can I request a new feature or enhancement?
+A: Absolutely! We encourage users to suggest new features or enhancements. You can goto our feature branch. Create a New Issue Request which will be pinged to our discord. In discord all communication take place including wheather to Develop or Discard. When creating a issue Clearly describe the proposed feature and explain how it would benefit the project.
+
+- Q: How can I contact the project maintainers?
+A: You can reach out to the project maintainers by Discord or <a href="20192028@stu.uob.edu.bh">Email</a>.
+
+- Q: Can I redistribute or modify the project?
+A: Absolutely. We use MIT Licence. So go fork out the project and create your own. We absolutely love to see what our community builds.
+
 
 
