@@ -244,16 +244,16 @@ This code of conduct is adapted from the Contributor Covenant, version 2.1, avai
 ## FAQ
 We will address some common questions and concerns here.
 
-- Q: How can I report a bug or issue?
+- Q: How can I report a bug or issue?<br>
 A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
 
-- Q: Can I request a new feature or enhancement?
+- Q: Can I request a new feature or enhancement?<br>
 A: Absolutely! We encourage users to suggest new features or enhancements. You can goto our feature branch. Create a New Issue Request which will be pinged to our discord. In discord all communication take place including wheather to Develop or Discard. When creating a issue Clearly describe the proposed feature and explain how it would benefit the project.
 
-- Q: How can I contact the project maintainers?
+- Q: How can I contact the project maintainers?<br>
 A: You can reach out to the project maintainers by Discord or <a href="20192028@stu.uob.edu.bh">Email</a>.
 
-- Q: Can I redistribute or modify the project?
+- Q: Can I redistribute or modify the project?<br>
 A: Absolutely. We use MIT Licence. So go fork out the project and create your own. We absolutely love to see what our community builds.
 
 
