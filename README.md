@@ -190,6 +190,23 @@ If you found a bug. You can quickly create a issue by following
 
 
 ## User Characterstics and Screenshots:
+### Characterstics:
+##### Our system has three types of users
+1. Customer Group:
+customers book Rooms, Check-in, Payment and offer feedback by interacting directly with our App. We do keep a little amount of consumer data on file in our Database. After customer booked a room.
+2. Hotel staffs:
+Hotel Staff can manage all the booking, look for vacancies, book a room at desk, look at Food invetory for rooms etc. The hotel staff name, address, speciality, and other details are kept in the database.
+3. Admin:
+The administrator's job is to manage the whole App it gives all details and analytics about both staff and customers it also gives the revenue and expense reports.
+ 
+### Screenshots:
+- Login Page
+<img src="img\Picture1.png" width="350">
+<br>
+- Hotel Page
+<img src="img\Picture2.png" width="350">
+
+
 
 
 
@@ -245,7 +262,7 @@ This code of conduct is adapted from the Contributor Covenant, version 2.1, avai
 We will address some common questions and concerns here.
 
 - Q: How can I report a bug or issue?<br>
-A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
+A: If you encounter a bug or issue, please refer to Bug Tracking under <a href="#version">Version Control and Bug Tracking</a>. Include as much detail as possible, such as steps to reproduce the issue and your operating system/environment.
 
 - Q: Can I request a new feature or enhancement?<br>
 A: Absolutely! We encourage users to suggest new features or enhancements. You can goto our feature branch. Create a New Issue Request which will be pinged to our discord. In discord all communication take place including wheather to Develop or Discard. When creating a issue Clearly describe the proposed feature and explain how it would benefit the project.
