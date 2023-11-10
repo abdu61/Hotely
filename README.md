@@ -86,7 +86,7 @@ As a hotel manager, I want access to performance analytics and reports, such as 
 
 
 
-## [Version Control and Bug Tracking](#version)
+## Version Control and Bug Tracking
 For open source projects, GitHub offers free public version control hosting. This involves creating an online, publicly accessible version controlled repository from which anybody may view the project's resources and get updates. For both users and developers, a version control repository indicates that the project is trying to provide resources so that everyone can contribute.GitHub is a reasonable option for the majority of projects, even though it's not the sole or even the best one.The project's bug tracker is in the same boat. A bug tracking system's value extends beyond its regular utility to developers to include the implications it holds for project observers. An accessible bug database is, in the opinion of many, one of the most compelling indicators that a project should be.
 
 
