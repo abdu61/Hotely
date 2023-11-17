@@ -12,7 +12,7 @@ The Hotely App is open-source project on Github. Its a free software application
 This project is **open source** and licensed under the MIT License. This means that anyone can use, modify, and distribute this project for any purpose, as long as they give credit to the original author and include the license notice. This project is free and open for everyone to contribute and collaborate.
 
 ## First Look Around
-Since our Topic is Hotel Management its one of the most popular topic and there are lot of Open Source Project out there. We proceeded anyway because we are using for education purpose. And since we actually learning from each process on how open source development works and even in general about github. And we did find many project for our topic. And here are some:
+Since our Topic is Hotel Management, and its one of the most popular topic and there are lot of Open Source Project out there. We proceeded anyway because we are using for education purpose. And since we actually learning from each process on how open source development works and even in general about github. And we did find many project for our topic. And here are some:
 
 - <a href="https://github.com/webkul/hotelcommerce">https://github.com/webkul/hotelcommerce</a>
 - <a href="https://github.com/HouariZegai/HotelReservationSystem">https://github.com/HouariZegai/HotelReservationSystem</a>
